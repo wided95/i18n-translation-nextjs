@@ -1,0 +1,24 @@
+{
+    "navbar": {
+      "home": "home",
+      "about":"about",
+      "contact":"contact"
+    },
+    "homepage":{
+      "welcome-message":"Welcome to i18n translation example, the place were you ",
+      "topic":"Topic getting covered : Next JS 13.4.4 + i18n ",
+      "server-side-component":"Front-End Web Developer !!",
+      "tab-title-home":"HomePage"
+    },
+    "about":{
+      "title":"This is my ABOUT page",
+      "tab-title-about":"About"
+    },
+    "contact":{
+      "title":"This is my CONTACT page",
+      "tab-title-about":"Contact"
+    },
+    "footer":{
+      "description": "this my footer!"
+    }
+  }

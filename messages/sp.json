@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "homepage": {
+    "welcome-message": "Bienvenido al ejemplo de traducción i18n, el lugar donde tú",
+    "topic": "Tema cubierto: Next JS 13.4.4 + i18n",
+    "server-side-component": "¡Desarrollador Web Front-End!",
+    "tab-title-home": "Página de inicio"
+  },
+  "about": {
+    "title": "Esta es mi página Acerca de",
+    "tab-title-about": "Acerca de"
+  },
+  "contact": {
+    "title": "Esta es mi página de Contacto",
+    "tab-title-about": "Contacto"
+  },
+  "footer": {
+    "description": "¡Este es mi pie de página!"
+  }
+}
